@@ -1,7 +1,7 @@
 # TV Script Generation
 In this project, you'll generate your own Seinfeld TV scripts using RNNs.  You'll be using part of the [Seinfeld dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv) of scripts from 9 seasons.  The Neural Network you'll build will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
-## Project steps
+## Project Steps
 The project consists of the following steps:
 1. Get and Explore the Data
 
@@ -20,7 +20,7 @@ The project consists of the following steps:
    - Hyperparameters
    - Training
 
-5. Generate TV Script:
+5. Generate TV Script
 
 ## Instructions
 To complete the project, you need to install the following libraries:
